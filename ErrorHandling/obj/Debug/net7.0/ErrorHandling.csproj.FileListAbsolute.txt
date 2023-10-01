@@ -1,0 +1,15 @@
+D:\My Projects\Clean Code\CleanCode\ErrorHandling\obj\Debug\net7.0\ErrorHandling.csproj.AssemblyReference.cache
+D:\My Projects\Clean Code\CleanCode\ErrorHandling\obj\Debug\net7.0\ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Clean Code\CleanCode\ErrorHandling\obj\Debug\net7.0\ErrorHandling.AssemblyInfoInputs.cache
+D:\My Projects\Clean Code\CleanCode\ErrorHandling\obj\Debug\net7.0\ErrorHandling.AssemblyInfo.cs
+D:\My Projects\Clean Code\CleanCode\ErrorHandling\obj\Debug\net7.0\ErrorHandling.csproj.CoreCompileInputs.cache
+D:\My Projects\Clean Code\CleanCode\ErrorHandling\bin\Debug\net7.0\ErrorHandling.exe
+D:\My Projects\Clean Code\CleanCode\ErrorHandling\bin\Debug\net7.0\ErrorHandling.deps.json
+D:\My Projects\Clean Code\CleanCode\ErrorHandling\bin\Debug\net7.0\ErrorHandling.runtimeconfig.json
+D:\My Projects\Clean Code\CleanCode\ErrorHandling\bin\Debug\net7.0\ErrorHandling.dll
+D:\My Projects\Clean Code\CleanCode\ErrorHandling\bin\Debug\net7.0\ErrorHandling.pdb
+D:\My Projects\Clean Code\CleanCode\ErrorHandling\obj\Debug\net7.0\ErrorHandling.dll
+D:\My Projects\Clean Code\CleanCode\ErrorHandling\obj\Debug\net7.0\refint\ErrorHandling.dll
+D:\My Projects\Clean Code\CleanCode\ErrorHandling\obj\Debug\net7.0\ErrorHandling.pdb
+D:\My Projects\Clean Code\CleanCode\ErrorHandling\obj\Debug\net7.0\ErrorHandling.genruntimeconfig.cache
+D:\My Projects\Clean Code\CleanCode\ErrorHandling\obj\Debug\net7.0\ref\ErrorHandling.dll

@@ -1,0 +1,17 @@
+D:\My Projects\Clean Code\CleanCode\UnitTests\bin\Debug\net7.0\UnitTests.exe
+D:\My Projects\Clean Code\CleanCode\UnitTests\bin\Debug\net7.0\UnitTests.deps.json
+D:\My Projects\Clean Code\CleanCode\UnitTests\bin\Debug\net7.0\UnitTests.runtimeconfig.json
+D:\My Projects\Clean Code\CleanCode\UnitTests\bin\Debug\net7.0\UnitTests.dll
+D:\My Projects\Clean Code\CleanCode\UnitTests\bin\Debug\net7.0\UnitTests.pdb
+D:\My Projects\Clean Code\CleanCode\UnitTests\bin\Debug\net7.0\nunit.framework.dll
+D:\My Projects\Clean Code\CleanCode\UnitTests\obj\Debug\net7.0\UnitTests.csproj.AssemblyReference.cache
+D:\My Projects\Clean Code\CleanCode\UnitTests\obj\Debug\net7.0\UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Clean Code\CleanCode\UnitTests\obj\Debug\net7.0\UnitTests.AssemblyInfoInputs.cache
+D:\My Projects\Clean Code\CleanCode\UnitTests\obj\Debug\net7.0\UnitTests.AssemblyInfo.cs
+D:\My Projects\Clean Code\CleanCode\UnitTests\obj\Debug\net7.0\UnitTests.csproj.CoreCompileInputs.cache
+D:\My Projects\Clean Code\CleanCode\UnitTests\obj\Debug\net7.0\UnitTests.csproj.CopyComplete
+D:\My Projects\Clean Code\CleanCode\UnitTests\obj\Debug\net7.0\UnitTests.dll
+D:\My Projects\Clean Code\CleanCode\UnitTests\obj\Debug\net7.0\refint\UnitTests.dll
+D:\My Projects\Clean Code\CleanCode\UnitTests\obj\Debug\net7.0\UnitTests.pdb
+D:\My Projects\Clean Code\CleanCode\UnitTests\obj\Debug\net7.0\UnitTests.genruntimeconfig.cache
+D:\My Projects\Clean Code\CleanCode\UnitTests\obj\Debug\net7.0\ref\UnitTests.dll

@@ -1,0 +1,20 @@
+Functions: Focuses on writing clean and concise functions and methods.
+
+
+When writing functions or methods, it is important to prioritize clean and concise code. Here are some key considerations:
+
+1. Single Responsibility Principle: Functions should have a single responsibility and perform a specific task. This improves code clarity and makes it easier to understand and maintain. If a function is responsible for multiple tasks, consider breaking it down into smaller, more focused functions.
+
+2. Proper Naming: Choose descriptive and meaningful names for functions. The name should accurately represent the purpose or action performed by the function. This helps other developers (including yourself) understand the function's functionality without needing to dive into the implementation details.
+
+3. Limited Function Length: Functions should be kept concise and focused. Long and complex functions are harder to read, understand, and maintain. Aim for shorter functions that perform a specific task or operation. If a function becomes too long, consider refactoring it into smaller functions or methods.
+
+4. Avoiding Code Duplication: Don't repeat code unnecessarily. If multiple functions require the same piece of code, consider extracting it into a separate function or method and reuse it where needed. This promotes code reusability and reduces the chances of introducing bugs when making changes.
+
+5. Proper Use of Parameters: Functions should have well-defined parameters that clearly communicate the inputs required. Avoid excessive use of parameters, as it can make function calls more complex. If a function requires a large number of parameters, consider using objects or data structures to encapsulate related data.
+
+6. Clear Return Values: Functions should have clear return values that convey the result or output of the operation. Make sure the return type is appropriate and meaningful. If a function doesn't require a return value, consider using  `void`  or an appropriate alternative.
+
+7. Commenting and Documentation: While clean code should be self-explanatory, it is still important to provide comments or documentation for complex logic or algorithms. This helps other developers understand the intent and purpose of the code.
+
+By following these principles, you can write clean and concise functions that are easier to understand, maintain, and debug. This leads to more efficient development and higher quality software.

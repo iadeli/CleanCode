@@ -1,0 +1,22 @@
+Comments: Examines the role of comments in code and provides guidelines for writing effective comments.
+
+
+Comments play an important role in code by providing additional context, explanations, or documentation. They help other developers (including yourself) understand the code's intent, logic, and any complex algorithms or business rules. Here are some guidelines for writing effective comments:
+
+1. Use comments to explain the why, not the what: Comments should focus on explaining the purpose or rationale behind the code, rather than reiterating what the code is doing. The code itself should be self-explanatory, and comments should provide insights into the reasoning behind certain decisions or approaches.
+
+2. Be concise and clear: Keep comments concise and to the point. Avoid unnecessary verbosity or excessive detail. Use clear and straightforward language to ensure that the comments are easily understandable.
+
+3. Comment complex or non-obvious code: If a piece of code is intricate, uses a clever algorithm, or has non-obvious behavior, it's essential to provide comments explaining how and why it works. This helps others understand the code and reduces the risk of misinterpretation.
+
+4. Update comments during code changes: When modifying or refactoring code, ensure that any associated comments are also updated. Outdated comments can be misleading and cause confusion.
+
+5. Avoid redundant or obvious comments: Don't state the obvious or repeat information that is already clear from the code itself. Comments should add value by providing insights or clarifying complex parts of the code.
+
+6. Use proper grammar and formatting: Maintain good grammar, punctuation, and formatting in your comments. Well-structured and well-written comments are easier to read and understand.
+
+7. Use consistent commenting style: Follow a consistent commenting style throughout the codebase. This helps maintain a clean and professional appearance and ensures that comments are uniform and easy to navigate.
+
+8. Avoid excessive commenting: While comments are valuable, strive to write code that is self-explanatory and readable without relying heavily on comments. Well-named variables, functions, and classes can often eliminate the need for excessive commenting.
+
+Remember, comments should complement the code, not substitute for it. Well-written comments can greatly enhance the understandability and maintainability of code, making it easier for yourself and others to work with and modify in the future.

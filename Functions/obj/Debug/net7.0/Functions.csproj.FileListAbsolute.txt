@@ -1,0 +1,15 @@
+D:\My Projects\Clean Code\CleanCode\Functions\bin\Debug\net7.0\Functions.exe
+D:\My Projects\Clean Code\CleanCode\Functions\bin\Debug\net7.0\Functions.deps.json
+D:\My Projects\Clean Code\CleanCode\Functions\bin\Debug\net7.0\Functions.runtimeconfig.json
+D:\My Projects\Clean Code\CleanCode\Functions\bin\Debug\net7.0\Functions.dll
+D:\My Projects\Clean Code\CleanCode\Functions\bin\Debug\net7.0\Functions.pdb
+D:\My Projects\Clean Code\CleanCode\Functions\obj\Debug\net7.0\Functions.csproj.AssemblyReference.cache
+D:\My Projects\Clean Code\CleanCode\Functions\obj\Debug\net7.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Clean Code\CleanCode\Functions\obj\Debug\net7.0\Functions.AssemblyInfoInputs.cache
+D:\My Projects\Clean Code\CleanCode\Functions\obj\Debug\net7.0\Functions.AssemblyInfo.cs
+D:\My Projects\Clean Code\CleanCode\Functions\obj\Debug\net7.0\Functions.csproj.CoreCompileInputs.cache
+D:\My Projects\Clean Code\CleanCode\Functions\obj\Debug\net7.0\Functions.dll
+D:\My Projects\Clean Code\CleanCode\Functions\obj\Debug\net7.0\refint\Functions.dll
+D:\My Projects\Clean Code\CleanCode\Functions\obj\Debug\net7.0\Functions.pdb
+D:\My Projects\Clean Code\CleanCode\Functions\obj\Debug\net7.0\Functions.genruntimeconfig.cache
+D:\My Projects\Clean Code\CleanCode\Functions\obj\Debug\net7.0\ref\Functions.dll

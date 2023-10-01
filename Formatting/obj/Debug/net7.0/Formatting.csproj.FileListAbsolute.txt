@@ -1,0 +1,15 @@
+D:\My Projects\Clean Code\CleanCode\Formatting\bin\Debug\net7.0\Formatting.exe
+D:\My Projects\Clean Code\CleanCode\Formatting\bin\Debug\net7.0\Formatting.deps.json
+D:\My Projects\Clean Code\CleanCode\Formatting\bin\Debug\net7.0\Formatting.runtimeconfig.json
+D:\My Projects\Clean Code\CleanCode\Formatting\bin\Debug\net7.0\Formatting.dll
+D:\My Projects\Clean Code\CleanCode\Formatting\bin\Debug\net7.0\Formatting.pdb
+D:\My Projects\Clean Code\CleanCode\Formatting\obj\Debug\net7.0\Formatting.csproj.AssemblyReference.cache
+D:\My Projects\Clean Code\CleanCode\Formatting\obj\Debug\net7.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Clean Code\CleanCode\Formatting\obj\Debug\net7.0\Formatting.AssemblyInfoInputs.cache
+D:\My Projects\Clean Code\CleanCode\Formatting\obj\Debug\net7.0\Formatting.AssemblyInfo.cs
+D:\My Projects\Clean Code\CleanCode\Formatting\obj\Debug\net7.0\Formatting.csproj.CoreCompileInputs.cache
+D:\My Projects\Clean Code\CleanCode\Formatting\obj\Debug\net7.0\Formatting.dll
+D:\My Projects\Clean Code\CleanCode\Formatting\obj\Debug\net7.0\refint\Formatting.dll
+D:\My Projects\Clean Code\CleanCode\Formatting\obj\Debug\net7.0\Formatting.pdb
+D:\My Projects\Clean Code\CleanCode\Formatting\obj\Debug\net7.0\Formatting.genruntimeconfig.cache
+D:\My Projects\Clean Code\CleanCode\Formatting\obj\Debug\net7.0\ref\Formatting.dll

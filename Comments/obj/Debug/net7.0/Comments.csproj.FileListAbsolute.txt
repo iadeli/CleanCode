@@ -1,0 +1,15 @@
+D:\My Projects\Clean Code\CleanCode\Comments\bin\Debug\net7.0\Comments.exe
+D:\My Projects\Clean Code\CleanCode\Comments\bin\Debug\net7.0\Comments.deps.json
+D:\My Projects\Clean Code\CleanCode\Comments\bin\Debug\net7.0\Comments.runtimeconfig.json
+D:\My Projects\Clean Code\CleanCode\Comments\bin\Debug\net7.0\Comments.dll
+D:\My Projects\Clean Code\CleanCode\Comments\bin\Debug\net7.0\Comments.pdb
+D:\My Projects\Clean Code\CleanCode\Comments\obj\Debug\net7.0\Comments.csproj.AssemblyReference.cache
+D:\My Projects\Clean Code\CleanCode\Comments\obj\Debug\net7.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Clean Code\CleanCode\Comments\obj\Debug\net7.0\Comments.AssemblyInfoInputs.cache
+D:\My Projects\Clean Code\CleanCode\Comments\obj\Debug\net7.0\Comments.AssemblyInfo.cs
+D:\My Projects\Clean Code\CleanCode\Comments\obj\Debug\net7.0\Comments.csproj.CoreCompileInputs.cache
+D:\My Projects\Clean Code\CleanCode\Comments\obj\Debug\net7.0\Comments.dll
+D:\My Projects\Clean Code\CleanCode\Comments\obj\Debug\net7.0\refint\Comments.dll
+D:\My Projects\Clean Code\CleanCode\Comments\obj\Debug\net7.0\Comments.pdb
+D:\My Projects\Clean Code\CleanCode\Comments\obj\Debug\net7.0\Comments.genruntimeconfig.cache
+D:\My Projects\Clean Code\CleanCode\Comments\obj\Debug\net7.0\ref\Comments.dll

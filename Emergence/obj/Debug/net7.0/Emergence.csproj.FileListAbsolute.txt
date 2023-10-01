@@ -1,0 +1,15 @@
+D:\My Projects\Clean Code\CleanCode\Emergence\bin\Debug\net7.0\Emergence.exe
+D:\My Projects\Clean Code\CleanCode\Emergence\bin\Debug\net7.0\Emergence.deps.json
+D:\My Projects\Clean Code\CleanCode\Emergence\bin\Debug\net7.0\Emergence.runtimeconfig.json
+D:\My Projects\Clean Code\CleanCode\Emergence\bin\Debug\net7.0\Emergence.dll
+D:\My Projects\Clean Code\CleanCode\Emergence\bin\Debug\net7.0\Emergence.pdb
+D:\My Projects\Clean Code\CleanCode\Emergence\obj\Debug\net7.0\Emergence.csproj.AssemblyReference.cache
+D:\My Projects\Clean Code\CleanCode\Emergence\obj\Debug\net7.0\Emergence.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Clean Code\CleanCode\Emergence\obj\Debug\net7.0\Emergence.AssemblyInfoInputs.cache
+D:\My Projects\Clean Code\CleanCode\Emergence\obj\Debug\net7.0\Emergence.AssemblyInfo.cs
+D:\My Projects\Clean Code\CleanCode\Emergence\obj\Debug\net7.0\Emergence.csproj.CoreCompileInputs.cache
+D:\My Projects\Clean Code\CleanCode\Emergence\obj\Debug\net7.0\Emergence.dll
+D:\My Projects\Clean Code\CleanCode\Emergence\obj\Debug\net7.0\refint\Emergence.dll
+D:\My Projects\Clean Code\CleanCode\Emergence\obj\Debug\net7.0\Emergence.pdb
+D:\My Projects\Clean Code\CleanCode\Emergence\obj\Debug\net7.0\Emergence.genruntimeconfig.cache
+D:\My Projects\Clean Code\CleanCode\Emergence\obj\Debug\net7.0\ref\Emergence.dll

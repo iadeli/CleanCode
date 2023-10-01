@@ -1,0 +1,15 @@
+D:\My Projects\Clean Code\CleanCode\SuccessiveRefinement\bin\Debug\net7.0\SuccessiveRefinement.exe
+D:\My Projects\Clean Code\CleanCode\SuccessiveRefinement\bin\Debug\net7.0\SuccessiveRefinement.deps.json
+D:\My Projects\Clean Code\CleanCode\SuccessiveRefinement\bin\Debug\net7.0\SuccessiveRefinement.runtimeconfig.json
+D:\My Projects\Clean Code\CleanCode\SuccessiveRefinement\bin\Debug\net7.0\SuccessiveRefinement.dll
+D:\My Projects\Clean Code\CleanCode\SuccessiveRefinement\bin\Debug\net7.0\SuccessiveRefinement.pdb
+D:\My Projects\Clean Code\CleanCode\SuccessiveRefinement\obj\Debug\net7.0\SuccessiveRefinement.csproj.AssemblyReference.cache
+D:\My Projects\Clean Code\CleanCode\SuccessiveRefinement\obj\Debug\net7.0\SuccessiveRefinement.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Clean Code\CleanCode\SuccessiveRefinement\obj\Debug\net7.0\SuccessiveRefinement.AssemblyInfoInputs.cache
+D:\My Projects\Clean Code\CleanCode\SuccessiveRefinement\obj\Debug\net7.0\SuccessiveRefinement.AssemblyInfo.cs
+D:\My Projects\Clean Code\CleanCode\SuccessiveRefinement\obj\Debug\net7.0\SuccessiveRefinement.csproj.CoreCompileInputs.cache
+D:\My Projects\Clean Code\CleanCode\SuccessiveRefinement\obj\Debug\net7.0\SuccessiveRefinement.dll
+D:\My Projects\Clean Code\CleanCode\SuccessiveRefinement\obj\Debug\net7.0\refint\SuccessiveRefinement.dll
+D:\My Projects\Clean Code\CleanCode\SuccessiveRefinement\obj\Debug\net7.0\SuccessiveRefinement.pdb
+D:\My Projects\Clean Code\CleanCode\SuccessiveRefinement\obj\Debug\net7.0\SuccessiveRefinement.genruntimeconfig.cache
+D:\My Projects\Clean Code\CleanCode\SuccessiveRefinement\obj\Debug\net7.0\ref\SuccessiveRefinement.dll

@@ -1,0 +1,15 @@
+D:\My Projects\Clean Code\CleanCode\MeaningfulNames\bin\Debug\net7.0\MeaningfulNames.exe
+D:\My Projects\Clean Code\CleanCode\MeaningfulNames\bin\Debug\net7.0\MeaningfulNames.deps.json
+D:\My Projects\Clean Code\CleanCode\MeaningfulNames\bin\Debug\net7.0\MeaningfulNames.runtimeconfig.json
+D:\My Projects\Clean Code\CleanCode\MeaningfulNames\bin\Debug\net7.0\MeaningfulNames.dll
+D:\My Projects\Clean Code\CleanCode\MeaningfulNames\bin\Debug\net7.0\MeaningfulNames.pdb
+D:\My Projects\Clean Code\CleanCode\MeaningfulNames\obj\Debug\net7.0\MeaningfulNames.csproj.AssemblyReference.cache
+D:\My Projects\Clean Code\CleanCode\MeaningfulNames\obj\Debug\net7.0\MeaningfulNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Clean Code\CleanCode\MeaningfulNames\obj\Debug\net7.0\MeaningfulNames.AssemblyInfoInputs.cache
+D:\My Projects\Clean Code\CleanCode\MeaningfulNames\obj\Debug\net7.0\MeaningfulNames.AssemblyInfo.cs
+D:\My Projects\Clean Code\CleanCode\MeaningfulNames\obj\Debug\net7.0\MeaningfulNames.csproj.CoreCompileInputs.cache
+D:\My Projects\Clean Code\CleanCode\MeaningfulNames\obj\Debug\net7.0\MeaningfulNames.dll
+D:\My Projects\Clean Code\CleanCode\MeaningfulNames\obj\Debug\net7.0\refint\MeaningfulNames.dll
+D:\My Projects\Clean Code\CleanCode\MeaningfulNames\obj\Debug\net7.0\MeaningfulNames.pdb
+D:\My Projects\Clean Code\CleanCode\MeaningfulNames\obj\Debug\net7.0\MeaningfulNames.genruntimeconfig.cache
+D:\My Projects\Clean Code\CleanCode\MeaningfulNames\obj\Debug\net7.0\ref\MeaningfulNames.dll

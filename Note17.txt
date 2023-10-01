@@ -1,0 +1,46 @@
+Smells and Heuristics: Explores common code smells and provides heuristics for refactoring.
+
+
+Here are some common code smells and heuristics for refactoring:
+
+1. Long Method:
+   - Smell: A method that is excessively long and performs multiple tasks.
+   - Heuristic: Break down the method into smaller, more focused methods, each with a single responsibility.
+
+2. Duplicated Code:
+   - Smell: Repeated blocks of code in different parts of the codebase.
+   - Heuristic: Extract the duplicated code into a separate method or utility class to promote code reuse.
+
+3. Large Class:
+   - Smell: A class that has grown too large, containing numerous methods and fields.
+   - Heuristic: Identify cohesive subsets of functionality within the class and extract them into smaller, more specialized classes.
+
+4. Primitive Obsession:
+   - Smell: Overuse of primitive data types instead of creating domain-specific classes.
+   - Heuristic: Introduce domain-specific classes to encapsulate related data and behavior, improving code readability and maintainability.
+
+5. Long Parameter List:
+   - Smell: A method with a lengthy list of parameters, which can make the code hard to read and maintain.
+   - Heuristic: Group related parameters into objects or use method overloading to reduce the number of parameters passed.
+
+6. Switch Statements:
+   - Smell: Excessive use of switch statements, which can indicate a violation of the Open-Closed Principle.
+   - Heuristic: Use polymorphism and inheritance to replace switch statements with more extensible and maintainable code.
+
+7. Data Clumps:
+   - Smell: Multiple methods that operate on the same group of parameters or fields.
+   - Heuristic: Encapsulate related data into a single class or structure to promote better organization and reduce code duplication.
+
+8. Feature Envy:
+   - Smell: A method that accesses data or behavior from another class more than its own class.
+   - Heuristic: Move the method to the class that possesses the required data or behavior to improve cohesion and encapsulation.
+
+9. Comments:
+   - Smell: Excessive or outdated comments that may indicate unclear or poorly written code.
+   - Heuristic: Refactor the code to be self-explanatory with clear naming, eliminating the need for excessive comments.
+
+10. Inappropriate Intimacy:
+   - Smell: Classes that are overly dependent on each other, violating encapsulation and modularity.
+   - Heuristic: Identify dependencies and refactor the code to reduce coupling, using interfaces or dependency injection to decouple classes.
+
+These are just a few examples of code smells and corresponding heuristics for refactoring. It's important to regularly review and improve your codebase to ensure readability, maintainability, and extensibility.

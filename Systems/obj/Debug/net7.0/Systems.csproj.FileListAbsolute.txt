@@ -1,0 +1,15 @@
+D:\My Projects\Clean Code\CleanCode\Systems\bin\Debug\net7.0\Systems.exe
+D:\My Projects\Clean Code\CleanCode\Systems\bin\Debug\net7.0\Systems.deps.json
+D:\My Projects\Clean Code\CleanCode\Systems\bin\Debug\net7.0\Systems.runtimeconfig.json
+D:\My Projects\Clean Code\CleanCode\Systems\bin\Debug\net7.0\Systems.dll
+D:\My Projects\Clean Code\CleanCode\Systems\bin\Debug\net7.0\Systems.pdb
+D:\My Projects\Clean Code\CleanCode\Systems\obj\Debug\net7.0\Systems.csproj.AssemblyReference.cache
+D:\My Projects\Clean Code\CleanCode\Systems\obj\Debug\net7.0\Systems.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Clean Code\CleanCode\Systems\obj\Debug\net7.0\Systems.AssemblyInfoInputs.cache
+D:\My Projects\Clean Code\CleanCode\Systems\obj\Debug\net7.0\Systems.AssemblyInfo.cs
+D:\My Projects\Clean Code\CleanCode\Systems\obj\Debug\net7.0\Systems.csproj.CoreCompileInputs.cache
+D:\My Projects\Clean Code\CleanCode\Systems\obj\Debug\net7.0\Systems.dll
+D:\My Projects\Clean Code\CleanCode\Systems\obj\Debug\net7.0\refint\Systems.dll
+D:\My Projects\Clean Code\CleanCode\Systems\obj\Debug\net7.0\Systems.pdb
+D:\My Projects\Clean Code\CleanCode\Systems\obj\Debug\net7.0\Systems.genruntimeconfig.cache
+D:\My Projects\Clean Code\CleanCode\Systems\obj\Debug\net7.0\ref\Systems.dll
